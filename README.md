@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 노력은 배신하지 않는다.
 ```
 
-
-![깃허브](https://github.com/Hyeong-J/RESUME/raw/master/images/github.png)
-
 ## 경력사항
  - (주)스마트동스쿨 인턴(2019.07.01~2019.08.26)
 
@@ -35,4 +32,18 @@ Here are some ideas to get you started:
  
 ## 단체경력
 - PostUniv. 마케팅/기획서 연합동아리(2018.07~2019.07)
+
+
+## 사용 기술
+머신러닝 모델링을 통한 분석 수행
+### Python
+- Numpy
+- Pandas
+- ML models
+- plotting
+- Visualization etc.
+
+### R
+ - ML models
+
 
