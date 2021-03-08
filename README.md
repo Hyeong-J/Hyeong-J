@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 이름 : 송형준
-### Email : ignis8372@gmail.com
-### Github : github.com/Hyeong-J
+#### 이름 : 송형준
+#### Email : ignis8372@gmail.com
+#### Github : github.com/Hyeong-J
