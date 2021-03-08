@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 ## 경력사항
  - (주)스마트동스쿨 인턴(2019.07.01~2019.08.26)
 
-## 학력
+## 학력 및 교육사항
+ - 패스트 캠퍼스 [SSAC X FASTCAMPUS Python을 활용한 비즈니스 빅데이터 분석가 양성 과정] 수료 (2021년 1월 – 2021년 3월 )
  - 건국대학교 경영학과 졸업(2021.02)
  - 서울외국어고등학교 졸업(2013.02)
  
@@ -48,4 +49,11 @@ Here are some ideas to get you started:
 ### R
  - ML models
 
+### TODO
+- Linear Regression : additional study
+- ML theories study supplement
+- Google Analytics
 
+## 프로젝트
+![image](https://user-images.githubusercontent.com/79951535/110271129-bdf65d80-800a-11eb-943d-edbd1641445a.png)
+패스트 캠퍼스 프로젝트 
