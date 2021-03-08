@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![KakaoTalk_20200607_031630991](https://user-images.githubusercontent.com/79951535/110270885-314b9f80-800a-11eb-9989-e67b0c27b10f.jpg)
+
 ### 이름 : 송형준
 ### Email : ignis8372@gmail.com
 ### Github : github.com/Hyeong-J
